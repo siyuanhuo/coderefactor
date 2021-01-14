@@ -39,3 +39,5 @@ Repository contains quality README file with description, screenshot, and link t
 * I have change div tag into proper one
 * I have hosted the file on github page
 * Made all nev links functional
+* comment index.html and style.css
+*
