@@ -40,4 +40,4 @@ Repository contains quality README file with description, screenshot, and link t
 * I have hosted the file on github page
 * Made all nev links functional
 * comment index.html and style.css
-*
+* merge duplicated code in style.css
